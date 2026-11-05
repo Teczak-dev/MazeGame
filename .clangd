@@ -4,4 +4,5 @@ CompileFlags:
     - -DPLATFORM_DESKTOP
     - -DGRAPHICS_API_OPENGL_33
     - -Isrc
+    - -Iinclude
     - -Ibuild/external/raylib-master/src
